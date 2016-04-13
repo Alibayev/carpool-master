@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Check your trip";
+}
+
+<h2>Check Trip</h2>
+
+<form action="~/default/check" method="post">
+    <b>From:</b> &nbsp; <input class ="auto" id="autocomplete1" placeholder="Enter your address"
+             onFocus="geolocate()" type="text" name="from" size="45"/><br /><br />
+    <b>To:</b>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<input class ="auto" id="autocomplete2" placeholder="Enter your address"
+             onFocus="geolocate()" type="text" name="to" size="45"/><br /><br />
+    <b>Time: </b>&nbsp;&nbsp;<input type="text" name="time" size="45" /><br /><br />
+    <input type="submit" value='Check Trip Info' class="btn btn-success btn-md" />
+</form>

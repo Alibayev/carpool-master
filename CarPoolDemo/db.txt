@@ -1,0 +1,10 @@
+University of Texas at Dallas, Richardson, TX, United States	SMU Boulevard, Dallas, TX, United States	2016-12-24 08:30	20769	1317	1249
+1231 West Campbell Road, Richardson, TX, United States	1201 North Central Expressway, Plano, TX, United States	2016-12-24 08:30	9370	610	571
+234 West Campbell Road, Richardson, TX, United States	765 Custer Road, Plano, TX, United States	2016-12-24 08:30	4958	544	515
+5945 Dallas Parkway, Plano, TX, United States	335 North Central Expressway, Richardson, TX, United States	2016-12-24 08:30	22444	863	821
+UT Austin, UTA, San Antonio Street, Austin, TX, United States	University of Texas at Dallas, Richardson, TX, United States	2016-12-24 08:30	343203	11970	11667
+DFW Airport, Grapevine, TX, United States	University Park, TX, United States	2016-12-24 08:30	38520	1755	1661
+999 East Arapaho Road, Richardson, TX, United States	4447 North Central Expressway, Plano, TX, United States	2016-12-24 08:30	8378	438	404
+933 North Central Expressway, Plano, TX, United States	Frisco, TX, United States	2016-12-24 08:30	28672	1262	1234
+7500 Belt Line Road, Dallas, TX, United States	Legacy Drive, Plano, TX, United States	2016-12-24 08:30	14554	1282	1209
+666 North Central Expressway, Richardson, TX, United States	9754 Trevor Drive, Dallas, TX, United States	2016-12-24 08:30	5789	689	647
